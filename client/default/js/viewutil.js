@@ -63,3 +63,5 @@ function importViews(callback){
 		});
 	});
 }
+<div class="page" id="mainPage"></div>
+    <div class="page" id="logged"></div> 
